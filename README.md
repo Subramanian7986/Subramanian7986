@@ -1,9 +1,8 @@
 <h1 align="center">Hi 👋, I'm Subramanian V</h1>
 <h3 align="center">Dedicated B.Tech IT graduate with expertise in web technologies, data management, and problem-solving. Aspiring to contribute to a progressive organization by utilizing my skills in software development, AI, and database management to create scalable, high-quality solutions.</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=subaramanian7986&label=Profile%20views&color=0e75b6&style=flat" alt="subaramanian7986" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=Subaramanian7986&label=Profile%20views&color=0e75b6&style=flat" alt="subaramanian7986" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=subaramanian7986" alt="subaramanian7986" /></a> </p>
 
 - 🔭 I’m currently working on [MERN and MEAN Stack Projects](https://github.com/Subramanian7986?tab=repositories)
 
@@ -19,7 +18,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="[https://linkedin.com/in/subramanian v](https://www.linkedin.com/in/subramanian-v-a93089255?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="subramanian v" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/subramanian-v-a93089255/"></a>
 <a href="https://fb.com/subramanian v" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="subramanian v" height="30" width="40" /></a>
 </p>
 
